@@ -12,7 +12,7 @@
     --FG-cards-banner-height: 20px;
     --FG-cards-border-width: 1px;
 
-    --FG-avatar-margin-top: 46px;
+    --FG-avatar-margin-top: 26px;
     --FG-avatar-margin-left: 20px;
     --FG-text-margin-left: 20px;
 
@@ -128,7 +128,7 @@
     margin: 0px;
     width: 100%;
     border-radius: var(--FG-search-radius);
-    top: -4px
+    top: 24px
 }
 
 .peopleColumn_c2739c .peopleList_e0840f > div {
