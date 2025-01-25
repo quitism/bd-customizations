@@ -1,2 +1,2 @@
-# btdaddons-customized
-my versions of betterdiscord addons
+# btd-customized
+my own take of stuff from betterdiscords
