@@ -183,10 +183,11 @@
   background: var(--rs-phone-color, var(--rs-online-color));
   z-index: 1;
 }
-/* main cause of the problem */
+/* main cause of the problem
 #app-mount .wrapper_c51b4e foreignObject[mask*=mobile] + rect {
   stroke: var(--rs-phone-color, inherit);
 }
+*/
 #app-mount .avatarSpeaking_c51b4e {
   position: absolute;
   top: 2px;
